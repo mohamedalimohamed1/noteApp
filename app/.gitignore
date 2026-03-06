@@ -1,0 +1,59 @@
+# Gradle
+
+.gradle/
+build/
+
+# Local configuration
+
+local.properties
+
+# Android Studio
+
+.idea/
+*.iml
+
+# Firebase configuration
+
+google-services.json
+
+# Keystore files
+
+*.jks
+*.keystore
+
+# Compiled files
+
+*.class
+*.dex
+*.apk
+*.ap_
+
+# Logs
+
+*.log
+
+# Navigation
+
+.navigation/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Kotlin metadata
+
+*.kotlin_metadata
+
+# Captures
+
+captures/
+
+# External build folders
+
+.externalNativeBuild/
+
+# Temporary files
+
+*.tmp
+*.bak
